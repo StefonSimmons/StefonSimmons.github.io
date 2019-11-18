@@ -35,6 +35,10 @@ a:visited {
   color: #2A9D8F;
 }
 
+.prj-link{
+  color: black;
+}
+
 .square-one .inner {
   background: #264653;
 }
